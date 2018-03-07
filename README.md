@@ -1,2 +1,2 @@
 # debonair-dsp
-All things signal processing 
+Some things signal processing 
